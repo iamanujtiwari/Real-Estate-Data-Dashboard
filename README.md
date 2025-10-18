@@ -8,7 +8,6 @@ This project combines **data analytics, visualization, and geospatial insights**
 
 ## 🌐 Live Demo  
 🚀 **Try it here:** [View Live App](https://your-streamlit-app-link)  
-*(Replace this link with your actual Streamlit Cloud or HuggingFace link)*  
 
 ---
 
@@ -71,11 +70,8 @@ This project combines **data analytics, visualization, and geospatial insights**
 
 | Dashboard | ROI Analysis | Map View |
 |:-----------:|:-------------:|:----------:|
-| ![Dashboard](screenshots/dashboard.png) | ![ROI](screenshots/roi_analysis.png) | ![Map](screenshots/map_view.png) |
+| ![Dashboard]([screenshots/dashboard.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/dashboard.jpg)) | ![ROI]([screenshots/roi_analysis.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/roi_analysis.jpg)) | ![Map]([screenshots/map_view.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/map_view.jpg)) |
 
-> 💡 *You can automatically capture screenshots using the inbuilt Streamlit screenshot button — see `app.py`.*
-
----
 
 <br>
 
