@@ -76,7 +76,7 @@ Go to 👉 http://localhost:8501
 ## 🧾 Dataset Columns  
 
 | Column | Description |
-|---------|-------------|
+|:------------------|:----------------------------------------------|
 | `property_name` | Name of the property |
 | `society` | Society or builder name |
 | `price` | Price in INR |
@@ -87,30 +87,35 @@ Go to 👉 http://localhost:8501
 
 ---
 
+<br>
+
 ## 📸 Screenshots  
 
 | Dashboard | ROI Analysis | Map View |
-|------------|---------------|----------|
+|:-----------:|:-------------:|:----------:|
 | ![Dashboard](screenshots/dashboard.png) | ![ROI](screenshots/roi_analysis.png) | ![Map](screenshots/map_view.png) |
 
-> 💡 *(You can automatically capture screenshots using the inbuilt Streamlit screenshot button — see `app.py`)*  
+> 💡 *You can automatically capture screenshots using the inbuilt Streamlit screenshot button — see `app.py`.*
 
 ---
+
+<br>
 
 ## 🧭 Future Enhancements  
 
 - 🚧 Predict property prices using **Machine Learning (Regression Models)**  
 - 📈 Add **Price Trend Forecasting** based on location  
 - 📤 Enable **Export as PDF / Excel Report**  
-- 🗺️ Integrate **Google Maps API** for more detailed maps  
-- 🌙 Add **Dark Mode Dashboard**  
+- 🗺️ Integrate **Google Maps API** for detailed maps  
+- 🌙 Add **Dark Mode Dashboard**
 
 ---
+
+<br>
 
 ## 👨‍💻 Developer  
 
 **Anuj Tiwari**  
 🎓 *BCA (University of Rajasthan, 2022–2025)*  
-💼 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)  
-📍 *India*  
-
+💼 [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)  
+📍 *India*
