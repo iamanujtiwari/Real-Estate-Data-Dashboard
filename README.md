@@ -72,9 +72,11 @@ This project combines **data analytics, visualization, and geospatial insights**
 |:-----------:|
 |![dashboard](https://github.com/user-attachments/assets/3c3826f0-636c-4491-9bd6-db908b577813)
 <br>
+
 |ROI Analysis | 
 |:-------------:|
 ![roi_analysis](https://github.com/user-attachments/assets/91f0527f-fcc0-4c42-80dd-d96569530884)
+
 <br>
 
  | Map View |
