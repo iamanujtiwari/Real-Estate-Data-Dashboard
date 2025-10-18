@@ -70,7 +70,7 @@ This project combines **data analytics, visualization, and geospatial insights**
 
 | Dashboard | ROI Analysis | Map View |
 |:-----------:|:-------------:|:----------:|
-| ![Dashboard]([screenshots/dashboard.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/dashboard.jpg)) | ![ROI]([screenshots/roi_analysis.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/roi_analysis.jpg)) | ![Map]([screenshots/map_view.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/map_view.jpg)) |
+| !([screenshots/dashboard.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/dashboard.jpg)) | !([screenshots/roi_analysis.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/roi_analysis.jpg)) | !([screenshots/map_view.png](https://github.com/iamanujtiwari/Real-Estate-Data-Dashboard/blob/main/Real%20Estate%20Data%20Dashboard/screenshots/map_view.jpg)) |
 
 
 <br>
