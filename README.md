@@ -49,29 +49,7 @@ This project combines **data analytics, visualization, and geospatial insights**
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-
-
-
-## ⚙️ Installation & Setup  
-
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/yourusername/real-estate-dashboard.git
-cd real-estate-dashboard
-2️⃣ Install dependencies
-
-bash
-Copy code
-pip install -r requirements.txt
-3️⃣ Run the app
-
-bash
-Copy code
-streamlit run app.py
-4️⃣ View in browser
-Go to 👉 http://localhost:8501
-
-
+ 
 
 ## 🧾 Dataset Columns  
 
@@ -119,3 +97,32 @@ Go to 👉 http://localhost:8501
 🎓 *BCA (University of Rajasthan, 2022–2025)*  
 💼 [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)  
 📍 *India*
+
+
+
+
+
+
+
+
+
+
+## ⚙️ Installation & Setup  
+
+1️⃣ **Clone the repository**  
+```bash
+git clone https://github.com/yourusername/real-estate-dashboard.git
+cd real-estate-dashboard
+2️⃣ Install dependencies
+
+bash
+Copy code
+pip install -r requirements.txt
+3️⃣ Run the app
+
+bash
+Copy code
+streamlit run app.py
+4️⃣ View in browser
+Go to 👉 http://localhost:8501
+
