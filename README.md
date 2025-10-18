@@ -73,31 +73,44 @@ Go to 👉 http://localhost:8501
 
 
 
+## 🧾 Dataset Columns  
 
-🧾 Dataset Columns
-Column	Description
-property_name	Name of the property
-society	Society or builder name
-price	Price in INR
-area_sqft	Property area in square feet
-rating	Property rating
-finishing_details	Interior and finishing info
-nearby_locations	Nearby landmarks and points of interest
+| Column | Description |
+|---------|-------------|
+| `property_name` | Name of the property |
+| `society` | Society or builder name |
+| `price` | Price in INR |
+| `area_sqft` | Property area in square feet |
+| `rating` | Property rating |
+| `finishing_details` | Interior and finishing info |
+| `nearby_locations` | Nearby landmarks and points of interest |
 
-📸 Screenshots
-Dashboard	ROI Analysis	Map View
+---
 
-(You can automatically capture screenshots using the inbuilt Streamlit screenshot button — see app.py)
+## 📸 Screenshots  
 
-🧭 Future Enhancements
-🚧 Predict property prices using Machine Learning (Regression Models)
-📈 Add Price Trend Forecasting based on location
-📤 Enable Export as PDF / Excel Report
-🗺️ Integrate Google Maps API for more detailed maps
-🌙 Add Dark Mode Dashboard
+| Dashboard | ROI Analysis | Map View |
+|------------|---------------|----------|
+| ![Dashboard](screenshots/dashboard.png) | ![ROI](screenshots/roi_analysis.png) | ![Map](screenshots/map_view.png) |
 
-👨‍💻 Developer
-Anuj Tiwari
-🎓 BCA (University of Rajasthan, 2022–2025)
-💼 GitHub | LinkedIn
-📍 India
+> 💡 *(You can automatically capture screenshots using the inbuilt Streamlit screenshot button — see `app.py`)*  
+
+---
+
+## 🧭 Future Enhancements  
+
+- 🚧 Predict property prices using **Machine Learning (Regression Models)**  
+- 📈 Add **Price Trend Forecasting** based on location  
+- 📤 Enable **Export as PDF / Excel Report**  
+- 🗺️ Integrate **Google Maps API** for more detailed maps  
+- 🌙 Add **Dark Mode Dashboard**  
+
+---
+
+## 👨‍💻 Developer  
+
+**Anuj Tiwari**  
+🎓 *BCA (University of Rajasthan, 2022–2025)*  
+💼 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)  
+📍 *India*  
+
