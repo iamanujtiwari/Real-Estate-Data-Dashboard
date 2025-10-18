@@ -49,10 +49,8 @@ This project combines **data analytics, visualization, and geospatial insights**
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-yaml
-Copy code
 
----
+
 
 ## ⚙️ Installation & Setup  
 
