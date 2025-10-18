@@ -71,6 +71,9 @@ streamlit run app.py
 4️⃣ View in browser
 Go to 👉 http://localhost:8501
 
+
+
+
 🧾 Dataset Columns
 Column	Description
 property_name	Name of the property
