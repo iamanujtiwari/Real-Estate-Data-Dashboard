@@ -7,7 +7,7 @@ This project combines **data analytics, visualization, and geospatial insights**
 ---
 
 ## 🌐 Live Demo  
-🚀 **Try it here:** [View Live App](https://your-streamlit-app-link)  
+🚀 **Try it here:** [View Live App](https://real-estate-data-app.streamlit.app/)  
 
 ---
 
