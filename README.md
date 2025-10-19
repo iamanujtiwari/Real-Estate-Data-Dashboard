@@ -104,7 +104,7 @@ This project combines **data analytics, visualization, and geospatial insights**
 
 **Anuj Tiwari**  
 🎓 *BCA (University of Rajasthan, 2022–2025)*  
-💼 [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)  
+💼 [GitHub](https://github.com/iamanujtiwari) · [LinkedIn] (https://www.linkedin.com/feed/)  
 📍 *India*
 
 
